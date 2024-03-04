@@ -73,3 +73,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Currently, I am following such tutorial for the chatbot:
 https://go.dev/doc/tutorial/create-module
 
+And Build Redis from scratch:
+https://www.build-redis-from-scratch.dev/en/introduction
+
+Go Redis development:
+https://redis.uptrace.dev
+
